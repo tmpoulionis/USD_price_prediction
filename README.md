@@ -45,3 +45,7 @@ A brokerage firm wanted to predict the US Dollar's value to aid financial decisi
 | XGBoost                 | 0.00341      | **0.00260** |
 | Lasso Regression  + Bagging     | 0.00337  | 0.00271     |
 | Linear Regression + Stacking | 0.00344 | 0.00262    |
+
+## 🛠️ Technologies Used  
+yfinance · NumPy · Pandas · Matplotlib · Plotly · Scikit-learn  
+  
